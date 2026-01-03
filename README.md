@@ -12,6 +12,9 @@ https://discord.gg/zh56aVWe3U
 
 
 
+## For Developers
+**[📖 Developer Guide (开发者文档)](DEVELOPER_GUIDE.md)** - Complete guide for building and understanding the codebase (Chinese)
+
 ## Table of Contents
 > **Note**
 >
